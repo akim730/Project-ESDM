@@ -44,5 +44,17 @@
         1.https://www.sap.com/india/products/technology-platform/hana/what-is-sap-hana.html#:~:text=SAP%20HANA%20(High%2Dperformance%20ANalytic,keeping%20it%20on%20a%20disk.
       </td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>2//11/2024</td>
+      <td>Loo Jia Chang</td>
+      <td>Research in Community</td>
+      <td>
+         Searched keyword:"SAPUI5 application with HANA database"
+        <br><br>
+        1.https://community.sap.com/t5/technology-q-a/connecting-sapui5-application-with-hana-database-jpa-or-hana-studio/qaq-p/10046857<br>
+        2.https://community.sap.com/t5/technology-q-a/adding-an-existing-sapui5-application-to-a-site-in-hana-cloud-portal/qaq-p/11699993
+      </td>
+    </tr>
   </table>
 </div>
