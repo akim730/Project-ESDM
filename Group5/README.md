@@ -7,6 +7,7 @@
 |Nadhrah NurSabrina Binti Zulaini|A22EC0224|
 |Goh Jing Yang|A22EC0052|
 |Joseph Lau Yeo Kai|A22EC0055|
+|Navasarathy S.Ganeswaran|A22EC0091|
 ## Overview
 Group 5 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
 
