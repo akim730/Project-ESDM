@@ -93,4 +93,20 @@
         2. https://www.manageengine.com/products/applications_manager/help/sap-business-one-monitoring-tools.html
         </td>
     </tr>
+ <tr>
+        <td>7.</td>
+        <td>30/10/2024</td>
+        <td>Wong Khai Shian Nicholas</td>
+        <td>Research on the topic to be discovered on SAP</td>
+        <td>Searched on Google using keyword: 
+        "What is SAP Business One for?"
+        <br>
+        <br>
+        Article found:
+        <br>
+        1. https://www.techtarget.com/searchsap/definition/SAP-Business-One
+        <br>
+        2.https://www.beonesolutions.com/sap-business-one/
+        </td>
+    </tr>
     
