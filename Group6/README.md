@@ -4,6 +4,7 @@
 |------|------|
 | Tiew Chuan Rong | A22EC0112 |
 | Loo Jia Chang | A22EC0074 |
+| Nik Zulaikhaa | A22EC0232 |
 
 ## Overview
 Group 6 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
