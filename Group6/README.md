@@ -7,7 +7,7 @@
 | Nik Zulaikhaa | A22EC0232 |
 
 ## Overview
-Group 6 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
+Group 6 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **AK Maju Sales Management System**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
 
 ## Goals
 The primary objectives of Group1 in this project include:
