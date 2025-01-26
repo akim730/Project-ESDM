@@ -1,7 +1,7 @@
 # Group 3: Business Application integration to SAP Analytics Cloud & SAP Cloud SDK
 
 ## Overview
-Group 3 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
+Group 3 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **SAP Analytics Cloud & SAP Cloud SDK**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
 
 <div class="group-section">
     <h3>Group Members</h3>
@@ -30,13 +30,13 @@ Group 3 is excited to announce its involvement in the upcoming project, which ai
 </div>
 
 ## Goals
-The primary objectives of Group1 in this project include:
+The primary objectives of Group 3 in this project include:
 - **Innovative Solutions**: Leveraging cutting-edge technology to develop efficient and scalable solutions.
 - **Collaboration**: Working closely with other groups and stakeholders to ensure the success of the project.
 - **Quality Delivery**: Ensuring that all deliverables meet the highest standards of quality and timeliness.
 
 ## Team Expertise
-Group3 brings together a diverse set of skills and expertise, including:
+Group 3 brings together a diverse set of skills and expertise, including:
 - **Software Development**
 - **Data Analysis**
 - **System Architecture**
