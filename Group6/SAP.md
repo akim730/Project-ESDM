@@ -210,7 +210,7 @@
     </tr>
     <tr>
       <td>23</td>
-      <td>20/11/2024</td>
+      <td>20/1/2025</td>
       <td> Tiew Chuan Rong, Tiew Chuan Shen, Loo Jia Chang, Nik Zulaikhaa and Lee Yik Hong</td>
       <td>Chapter 6: Conclusion</td>
       <td>6.1 Introduction
