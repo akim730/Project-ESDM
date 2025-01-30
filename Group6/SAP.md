@@ -1,4 +1,15 @@
 # Group 6: SAP HANA & SAPUI5 RUNTIME AND SDK
+<table border="1">
+    <tr>
+        <th>File</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Report</td>
+        <td><a href="https://docs.google.com/document/d/1ZN9p12L2b9urlyNk-V2OXRuX2HaSUf-v/edit?usp=sharing&ouid=117921283922913523254&rtpof=true&sd=true
+">ESDM Report Link</a></td>
+    </tr>
+</table>
 
 ## Logbook
 <div class="logbook">
